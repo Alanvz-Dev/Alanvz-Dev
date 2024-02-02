@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🐧 Linux server management | Windows
+- 🐧 server management Linux | Windows
 
 - 💻 Maintenance of servers and computer equipment
 
@@ -55,7 +55,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,github,html,java,js,linux,mongodb,mysql,postman,py,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,cpp,net,css,discord,docker,github,html,java,js,linux,mongodb,mysql,postman,py,ts,vscode&perline=14" />
   </a>
 </p>
 
